@@ -1,6 +1,6 @@
 # My personal portfolio website
 
-http://www.fatihparlagi.com/
+https://fatihprlg.github.io/
 
 ## Copyright and License
 
