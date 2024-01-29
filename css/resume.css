@@ -174,3 +174,147 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+.tags-experiences{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.tag-txt-experience{
+  font-size: .7rem;
+  background-color: #BD5D38;
+  color:white;
+  border-radius: 5px;
+  padding: 2.5px 5px;
+  margin: 1px;
+}
+/*projects*/
+.show {
+  display: block!important;
+}
+.project-content {
+  background-color: white;
+  padding: 10px;
+}
+.project-row {
+  margin: 8px -16px;
+  overflow: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  text-wrap: wrap!important;
+  white-space: nowrap;
+}
+
+.project-row,
+.project-row > .column {
+  padding: 8px;
+}
+
+.project-column {
+  float: left;
+  width: 25%;
+  min-width: 250px;
+  flex: 0 0 auto;
+  display: none; 
+  text-align: center;
+  position: relative;
+}
+
+.img-inner-text {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  transition: 0.3s;
+}
+
+.img-inner-text > p{
+  opacity: 0;
+  transition: 0.3s;
+}
+
+.project-content:hover  .img-inner-text {
+  top: 50%;
+}
+.project-content:hover  .img-inner-text>p{
+  opacity: 1;
+}
+
+.tags{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  opacity: 0;
+  transition: 0.3s;
+}
+.project-content:hover  .tags{
+  opacity: 1;
+}
+.tag-txt{
+  font-size: .5rem;
+  background-color: #BD5D38;
+  color:white;
+  border-radius: 5px;
+  padding: 2.5px 5px;
+  margin: 1px;
+}
+
+
+@media (max-width: 768px){
+  .img-inner-text > p{
+    opacity: 1!important;
+  }
+  .img-inner-text {
+    top: 50%!important;
+  }
+  .project-content-img{
+    mask-image: linear-gradient(rgba(189, 94, 56, 0.4), transparent)!important;
+  }
+  .tags{
+    opacity: 1!important;
+  }
+}
+
+.project-content-img{
+  border-radius: 12px;
+  width: 100%;
+  transition: 0.3s;
+}
+.project-content-img{
+  mask-image: linear-gradient(rgb(189, 94, 56), transparent);
+  transition: 0.3s;
+}
+
+.project-content:hover .project-content-img{
+  mask-image: linear-gradient(rgba(189, 94, 56, 0.35), transparent);
+}
+
+.project-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the buttons */
+.project-btn {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 12px 16px;
+  color: #bd5d38;
+  background-color: white;
+  cursor: pointer;
+}
+
+/* Add a grey background color on mouse-over */
+.project-btn:hover {
+  background-color: #bd5e386c;
+}
+
+/* Add a dark background color to the active button */
+.project-btn.active {
+  background-color: #BD5D38;
+   color: white;
+}

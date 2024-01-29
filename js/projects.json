@@ -1,0 +1,178 @@
+[
+    {
+        "name":"Flight Search API",
+        "category":"backend",
+        "desc":"A flight search API with Java Spring Boot.",
+        "img":"/img/backend/default.png",
+        "tags":["Java", "Spring Boot", "Spring Security", "Spring Boot JPA", "MS SQL", "Swagger", "Unit Test", "Scheduled Task", "MVC"],
+        "url":"https://github.com/Fatihprlg/FlightSearchAPI"
+    },
+    {
+        "name":"Rent A Car / Back-end",
+        "category":"backend",
+        "desc":"Araclazim.com Project Back-end layers.",
+        "img":"/img/backend/default.png",
+        "tags":["C#", ".NET", "MS SQL", "N-Tier", "Repository"],
+        "url":"https://github.com/Fatihprlg/Rent-a-Car"
+    },
+    {
+        "name":"Unity Mobile Game Library",
+        "category":"unitytool",
+        "desc":"A base template for unity mobile game projects.",
+        "img":"/img/unity/default.png",
+        "tags":["C#", "Unity", "IoC", "Editor Scripting", "UI", "Framework"],
+        "url":"https://github.com/Fatihprlg/UnityProjectBase"
+    },
+    {
+        "name":"Unity IoC",
+        "category":"unitytool",
+        "desc":"An IoC container for Unity game engine.",
+        "img":"/img/unity/default.png",
+        "tags":["C#", "Unity", "IoC", "Editor Scripting", "Reflection", "Assemblies"],
+        "url":"https://github.com/Fatihprlg/Unity_IoC"
+    },
+    {
+        "name":"F-Tracer",
+        "category":"unitytool",
+        "desc":"A stack tracer and logger for Unity game engine.",
+        "img":"/img/unity/default.png",
+        "tags":["C#", "Unity", "Logger", "Editor Scripting", "Stack Trace", "Assemblies"],
+        "url":"https://github.com/Fatihprlg/pixel_paddle"
+    },
+    {
+        "name":"Unity Texture Painter",
+        "category":"unitytool",
+        "desc":"A TexturePainter which uses RenderTexture and shaders to paint textures on Unity..",
+        "img":"/img/unity/default.png",
+        "tags":["C#", "Unity", "Shader", "Compute Shader"],
+        "url":"https://github.com/Fatihprlg/TexturePainter"
+    },
+    {
+        "name":"Pixel Paddle",
+        "category":"game",
+        "desc":"Pixel Paddle game for C++ exercise.",
+        "img":"/img/game/default.png",
+        "tags":["C++", "SDL", "Game Engine"],
+        "url":"https://github.com/Fatihprlg/pixel_paddle"
+    },
+    {
+        "name":"Strategy Game Demo",
+        "category":"game",
+        "desc":"A top-down strategy game demo in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "A*", "Cellular Automaton", "Scriptable Objects", "Editor Scripting"],
+        "url":"https://github.com/Fatihprlg/StrategyGameDemo"
+    },
+    {
+        "name":"Slingshot Race",
+        "category":"game",
+        "desc":"A hyper-casual game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "Mesh Deformation"],
+        "url":"https://drive.google.com/file/d/1KrSv_O0hvBP9saCjwuU0E3vXjtWFmYvu/view?usp=sharing"
+    },
+    {
+        "name":"The Carrier",
+        "category":"game",
+        "desc":"A hyper-casual idle-arcade game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "Idle-arcade"],
+        "url":"https://drive.google.com/file/d/1TJoHfBh-x_0gZwX6jlMNt1dDqoKPg_v3/view?usp=sharing"
+    },
+    {
+        "name":"Arcade Evolution",
+        "category":"game",
+        "desc":"A hyper-casual runner game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual"],
+        "url":"https://drive.google.com/file/d/1dVypCtr2dNi5sRWwIJXq9sPnsctvZbfr/view?usp=sharing"
+    },
+    {
+        "name":"Park Management",
+        "category":"game",
+        "desc":"A hyper-casual idle-arcade game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "Idle-arcade"],
+        "url":"https://drive.google.com/file/d/1SxYKvCLA1hNtOj2YN5Uqa3CCaoqB8iIB/view?usp=sharing"
+    },
+    {
+        "name":"Plastic Run",
+        "category":"game",
+        "desc":"A hyper-casual idle-arcade game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "Idle-arcade"],
+        "url":"https://drive.google.com/file/d/1E7ZHCcJrZpnWZolkPO7p_HrOHMKPfpOH/view?usp=sharing"
+    },
+    {
+        "name":"Pop ASMR",
+        "category":"game",
+        "desc":"A hyper-casual ASMR game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "ASMR"],
+        "url":"https://drive.google.com/file/d/1hjJwT12VtBhYfySsPdVPBjkvcF55EfvS/view?usp=share_link"
+    },
+    {
+        "name":"Soda Pop",
+        "category":"game",
+        "desc":"A hyper-casual ASMR game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual", "ASMR"],
+        "url":"https://drive.google.com/file/d/1j8VV7yR6d-b2X62e0hiF8gDi4tjnieMt/view?usp=share_link"
+    },
+    {
+        "name":"Rock Paper Royale",
+        "category":"game",
+        "desc":"A hyper-casual game in Unity.",
+        "img":"/img/game/default.png",
+        "tags":["C#", "Unity", "Hyper-casual"],
+        "url":"https://drive.google.com/file/d/1iEeZQB1gJVyVw46FkbuksDK10U4G0WgG/view?usp=share_link"
+    },
+    {
+        "name":"Diabetes Prediction API",
+        "category":"ml",
+        "desc":"An api that contains a machine learning model to predict diabetes by given values.",
+        "img":"/img/ml/default.png",
+        "tags":["Python", "Jupyter Notebook", "Pickle", "FastAPI", "Docker"],
+        "url":"https://github.com/Fatihprlg/Diabetes-Prediction-MLapi"
+    },
+    {
+        "name":"Linear Regression Analysis",
+        "category":"ml",
+        "desc":"A linear regression analysis for 50 startups csv.",
+        "img":"/img/ml/default.png",
+        "tags":["Python", "Jupyter Notebook", "Linear Regression", "Kaggle", "EDA"],
+        "url":"https://github.com/Fatihprlg/Linear-Regression-Analysis"
+    },
+    {
+        "name":"Play Store Apps EDA",
+        "category":"ml",
+        "desc":"An EDA for Google Play Store dataset.",
+        "img":"/img/ml/default.png",
+        "tags":["Python", "Jupyter Notebook", "Pandas", "Matplotlib", "EDA", "Seaborn"],
+        "url":"https://www.kaggle.com/code/fatihparla/goggle-play-store-apps"
+    },
+    {
+        "name":"Iris Dataset EDA",
+        "category":"ml",
+        "desc":"An EDA for Iris Flower dataset.",
+        "img":"/img/ml/default.png",
+        "tags":["Python", "Jupyter Notebook", "Pandas", "Matplotlib", "EDA", "Seaborn"],
+        "url":"https://www.kaggle.com/code/fatihparla/iris-dataset-eda"
+    },    
+    {
+        "name":"Rent A Car / Front-end",
+        "category":"other",
+        "desc":"AracLazim.com project Front-end Layer.",
+        "img":"/img/backend/default.png",
+        "tags":["C#", ".NET", "HTML", "CSS", "JavaScript", "MVC", "Bootstrap", "JQuery"],
+        "url":"https://github.com/Fatihprlg/Rent-a-Car-Front"
+    },
+    {
+        "name":"Other Projects",
+        "category":"other",
+        "desc":"On Github",
+        "img":"/img/github.png",
+        "tags":["Java", "Spring Boot", "C#", "Unity", ".NET", "MVC", "Python", "C++", "C"],
+        "url":"https://github.com/Fatihprlg"
+    }
+]
