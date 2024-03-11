@@ -37,7 +37,7 @@
         "desc":"A stack tracer and logger for Unity game engine.",
         "img":"/img/unity/default.png",
         "tags":["C#", "Unity", "Logger", "Editor Scripting", "Stack Trace", "Assemblies"],
-        "url":"https://github.com/Fatihprlg/pixel_paddle"
+        "url":"https://github.com/Fatihprlg/f-tracer"
     },
     {
         "name":"Unity Texture Painter",
