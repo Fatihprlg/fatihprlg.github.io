@@ -216,6 +216,7 @@ a:hover, a:focus, a:active {
   min-width: 250px;
   flex: 0 0 auto;
   display: none; 
+  text-wrap: balance;
   text-align: center;
   position: relative;
 }
